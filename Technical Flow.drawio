@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T14:16:17.961Z" agent="5.0 (Windows)" etag="srsaybla_ndK3M8-wX1N" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T07:09:33.129Z" agent="5.0 (Windows)" etag="68tTAfFDXDf0H41kNeNL" version="14.8.0" type="github">
   <diagram id="BbwCJ61hzbDqRbP00Ixq" name="Page-1">
     <mxGraphModel dx="1865" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="Tv3eXQoku1zJpk6C7R8K-36" value="&lt;h1&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;.opneshift/&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;cd openshift-install &amp;gt;&amp;gt; Save all Configurations&lt;br&gt;&lt;/p&gt;&lt;p&gt;cd openshiftfourx/&amp;nbsp; &amp;gt;&amp;gt; Terrafor script to create cluster&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="70" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv3eXQoku1zJpk6C7R8K-37" value="Boot Strap" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
